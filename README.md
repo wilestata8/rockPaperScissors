@@ -1,6 +1,7 @@
 # rockPaperScissors
 
 We all loved to play rock, paper, scissors as a child.  I have re-created this childhood game using a bot. Play against the bot and try to win by selecting the strongest weapon.
+**Link toProject:** https://rockpaperscissorsbot221.netlify.app/
 
 
 <img src= "rock_paper_scissors/css/snap.jpg" width =90%>
